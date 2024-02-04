@@ -4,5 +4,6 @@ public class chapter01_01 {
         System.out.println("Bilgisayar Bilimlerine hoşgeldiniz!");
         System.out.println("Programlama Eğlencelidir!");
         System.out.println("Merhaba, dünya!");
+        
     }
 }
