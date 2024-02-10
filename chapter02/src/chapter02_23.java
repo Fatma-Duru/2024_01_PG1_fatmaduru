@@ -8,8 +8,8 @@ public class chapter02_23 {
         System.out.println("Aracın yakıt tüketimini girin (km/litre): ");
         double tuketim = scanner.nextDouble();
         System.out.print("Yakıt fiyatını girin (TL/litre): ");
-        double fiyat = scanner.nextDouble();
-       System.out.print("Seyahat maliyeti: "+(mesafe / tuketim) * fiyat);
+        double fiyat_ = scanner.nextDouble();
+       System.out.print("Seyahat maliyeti: "+(mesafe / tuketim) * fiyat_);
 
     }
 }
