@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2024_01_PG1.iml" filepath="$PROJECT_DIR$/.idea/2024_01_PG1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024_01_PG1_fatmaduru/chapter01/chapter01.iml" filepath="$PROJECT_DIR$/2024_01_PG1_fatmaduru/chapter01/chapter01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024_01_PG1_fatmaduru/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/2024_01_PG1_fatmaduru/chapter02/chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2024_01_PG1_fatmaduru/chapter01/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/2024_01_PG1_fatmaduru/chapter01/chapter03/chapter03.iml" />
+    </modules>
+  </component>
+</project>
