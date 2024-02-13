@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19344417-3d2e-4081-a301-3f577dda7400" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/SixMonthSavingsCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/BMICalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/DistanceCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/HexagonAreaCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/WindChillCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/ExponentialTableGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/TriangleAreaCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/MonthlyInterestCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter02/chapter02_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter02/FutureInvestmentValueCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="19344417-3d2e-4081-a301-3f577dda7400" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,8 +31,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -50,6 +44,21 @@
     ]
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="2024_01_PG1_fatmaduru" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="2024_01_PG1_fatmaduru" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
