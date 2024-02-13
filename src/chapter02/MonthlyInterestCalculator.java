@@ -1,6 +1,6 @@
 package chapter02;
 import java.util.Scanner;
-public class chapter02_20 {
+public class MonthlyInterestCalculator {
     public static void main(String[] args){
         //2.Bölüm 20. Soru
         Scanner scanner= new Scanner(System.in);

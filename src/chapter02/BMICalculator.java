@@ -1,7 +1,7 @@
 package chapter02;
 import java.util.Scanner;
 
-public class chapter02_14 {
+public class BMICalculator {
     public static void main(String[] args){
         //2.Bölüm 14.Soru
         Scanner scanner = new Scanner(System.in);

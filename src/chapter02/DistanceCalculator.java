@@ -1,7 +1,7 @@
 package chapter02;
 import java.util.Scanner;
 import  java.lang.Math;
-public class chapter02_15 {
+public class DistanceCalculator {
     public static void main(String[] args){
         //2. Bölüm 15. Soru
         Scanner scanner= new Scanner(System.in);

@@ -1,6 +1,6 @@
 package chapter02;
 import java.util.Scanner;
-public class chapter02_16 {
+public class HexagonAreaCalculator {
     public  static void main(String[] args){
         //2. Bölüm 16. Soru
 

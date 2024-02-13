@@ -1,7 +1,7 @@
 package chapter02;
 import java.util.Scanner;
 
-public class chapter02_21 {
+public class FutureInvestmentValueCalculator {
     public static void main(String[] args){
         //2. Bölüm 21. Soru
         Scanner scanner = new Scanner(System.in);

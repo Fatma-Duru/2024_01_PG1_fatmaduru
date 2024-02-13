@@ -1,6 +1,6 @@
 package chapter02;
 import java.util.Scanner;
-public class chapter02_18 {
+public class ExponentialTableGenerator {
     public static void main(String[] args){
         //2.Bölüm 18. Soru
         /*a         b         pow(a, b)

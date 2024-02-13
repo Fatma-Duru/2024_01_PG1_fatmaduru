@@ -1,6 +1,6 @@
 package chapter02;
 import java.util.Scanner;
-public class chapter02_19 {
+public class TriangleAreaCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

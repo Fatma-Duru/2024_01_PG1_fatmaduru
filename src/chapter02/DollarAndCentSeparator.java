@@ -1,6 +1,6 @@
 package chapter02;
 import java.util.Scanner;
-public class chapter02_22 {
+public class DollarAndCentSeparator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // 2.Bölüm 22. Soru

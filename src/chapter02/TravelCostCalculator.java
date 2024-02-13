@@ -1,6 +1,6 @@
 package chapter02;
 import  java.util.Scanner;
-public class chapter02_23 {
+public class TravelCostCalculator {
     public static void main(String[] args){
         //double maliyet = (mesafe / tuketim) * fiyat;
         Scanner scanner= new Scanner(System.in);

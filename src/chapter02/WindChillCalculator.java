@@ -1,6 +1,6 @@
 package chapter02;
 import java.util.Scanner;
-public class chapter02_17 {
+public class WindChillCalculator {
     public static void main(String[] args) {
         //2.Bölüm 17. Soru
         Scanner scanner = new Scanner(System.in);
