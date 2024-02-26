@@ -4,55 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5cc6d18-99e9-4f18-a436-ae39dac917dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter03/ThreeNumberAdditionGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="4c4a9a0a-d78c-4d3d-8378-8c0598832271" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  "customColor": "",
+  "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2cNmIpaGDt8DWzuNdRQzVU6r9pn" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2cup5fj5JCournmf388jNMDQ0IW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.chapter03_01.executor": "Run",
+    "Application.AverageSpeed.executor": "Run",
+    "Application.LinearEquationSolver.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/duruf/2024_01_PG1_fatmaduru",
-    "project.structure.last.edited": "SDKs",
+    "last_opened_file_path": "C:/Users/duruf/OneDrive/Masaüstü/2024_01_PG1_fatmaduru",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.LinearEquationSolver">
+    <configuration name="AverageSpeed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter01.AverageSpeed" />
+      <module name="2024_01_PG1_fatmaduru" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearEquationSolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter03.LinearEquationSolver" />
+      <module name="2024_01_PG1_fatmaduru" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LinearEquationSolver" />
+        <item itemvalue="Application.AverageSpeed" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,15 +84,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d5cc6d18-99e9-4f18-a436-ae39dac917dc" name="Changes" comment="" />
-      <created>1707960334947</created>
+      <changelist id="4c4a9a0a-d78c-4d3d-8378-8c0598832271" name="Changes" comment="" />
+      <created>1708971135966</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1707960334947</updated>
+      <updated>1708971135966</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
